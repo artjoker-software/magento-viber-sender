@@ -1,0 +1,16 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!README.md
+!app/code/local/Artjoker/ViberSender/**/
+!app/code/local/Artjoker/ViberSender/**
+!app/design/adminhtml/default/default/layout/artjoker/vibersender.xml
+!app/etc/modules/Artjoker_ViberSender.xml
+!js/prototype/artjoker/customprice/validation.js
+!app/locale/en_US/Artjoker_ViberSender.csv
+!app/locale/ru_RU/Artjoker_ViberSender.csv
+# etc...
+
+# ...even if they are in subdirectories
